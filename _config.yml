@@ -23,7 +23,7 @@ description              : "Cursos, articulos y posts sobre Ciberseguridad"
 url                      : "https://lmongea.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leomonge/leomonge.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/masthead.png"
+logo                     : "/assets/images/logo.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Awaken"
+  name             : "Awaken!"
   avatar           : "/assets/images/avatar.jpeg"
   bio              : "Ingeniero de Sistemas e Informática y<br>Apasionado de la Ciberseguridad"
   location         : "Perú"
