@@ -1,10 +1,12 @@
 ---
 layout: single
+excerpt: "Todo lo que necesitas saber para poder montar tu propia página web gracias a Jekyll de forma local y con Github Pages montarlo directamente para que el mundo lo vea, junto con el certificado SSL/TLS que te proporciona GitHub Pages"
 title: Instalación de Jekyll en Windows y Linux
 date: 2021-11-21
 classes: wide
 header:
   teaser: /assets/images/instalacion-de-jekyll/jekyll-logo-dark-solid.jpg
+  teaser_home_page: true
 categories:
   - guia
 tags:
